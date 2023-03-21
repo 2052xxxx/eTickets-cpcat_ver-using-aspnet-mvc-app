@@ -2,7 +2,7 @@
 
 namespace eTickets.Models
 {
-    public class Cimena
+    public class Cinema
     {
         [Key]
         public int Id { get; set; } 
